@@ -455,7 +455,7 @@ body {
 }
 
 .room-price {
-    font-size: 5rem;
+    font-size: 3.5rem;
     font-weight: 300;
     text-align: right;
     margin: 0;
@@ -604,7 +604,7 @@ body {
     width: 25rem;
     padding: 1rem;
     font-family: 'Josefin Sans', sans-serif;
-    font-size: 1.8rem;
+    font-size: 1.2rem;
     color: #444;
     outline: none;
 }
@@ -748,7 +748,7 @@ body {
 
 @media(max-width: 500px) {
     html {
-        font-size: 55%;
+        font-size: 58%;
     }
 
     .navigation {
@@ -816,7 +816,7 @@ body {
     }
 
     .room-price {
-        font-size: 2.5rem;
+        font-size: 2rem;
         margin-bottom: 1.5rem;
         text-align: left;
     }
@@ -845,6 +845,6 @@ body {
     }
 
     .navigation {
-        max-width: 80%;
+        /* max-width: 80%; */
     }
 }
