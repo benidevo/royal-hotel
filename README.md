@@ -1,9 +1,9 @@
 ## :dart: About ##
 
-A One-page website for a furniture store built with only HTML and CSS
-- [Preview](https://myfurniturestorepage.netlify.app)
+A One-page website for a Royal Hotel built with only HTML and CSS
+- [Preview](https://royalhotelny.netlify.app)
 
-![Screenshot](img/furniture_store.png?raw=true "Furniture Store")
+![Screenshot](img/royal_hotel.png?raw=true "Royal Hotel")
 
 ## :rocket: Technologies ##
 
@@ -23,4 +23,4 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) in
 
 ```bash
 # Clone this project
-$ git clone https://github.com/benidevo/furniture-store.git
+$ git clone https://github.com/benidevo/royal-hotel.git
