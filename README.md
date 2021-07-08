@@ -1,6 +1,6 @@
 ## :dart: About ##
 
-A One-page website for a Royal Hotel built with only HTML and CSS
+A One-page website for Royal Hotel, built with only HTML and CSS.
 - [Preview](https://royalhotelny.netlify.app)
 
 ![Screenshot](img/royal_hotel.png?raw=true "Royal Hotel")
